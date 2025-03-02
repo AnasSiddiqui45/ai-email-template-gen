@@ -42,5 +42,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
     NEXT_PUBLIC_GEMINI_API_KEY=
     ```
-
+4. **Run the development server**
+   ```bash
+   npm run db:push
+   ```
+5. **Run the database studio**
+   ```bash
+   npm run db:studio
+   ```
+6. **Run the development server**
+   ```bash
+   npm run dev
+   ```
 
